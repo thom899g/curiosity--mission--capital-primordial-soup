@@ -1,0 +1,13 @@
+firebase-admin==6.4.0
+web3==6.15.1
+pandas==2.2.1
+numpy==1.26.4
+scikit-learn==1.4.0
+tweepy==4.14.0
+flask==3.0.2
+requests==2.31.0
+python-dotenv==1.0.0
+ccxt==4.1.83
+schedule==1.2.1
+pyTelegramBotAPI==4.20.0
+gunicorn==21.2.0
